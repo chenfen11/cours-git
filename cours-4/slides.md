@@ -124,7 +124,6 @@ marp: true
 - En suivant les bonnes pratiques (fork, issues, pull request) :  
 Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une des lignes suivantes
   - ligne 1 à supprimer
-  - ligne 2 à supprimer
   - ligne 3 à supprimer
   - ligne 4 à supprimer
   - ligne 5 à supprimer
